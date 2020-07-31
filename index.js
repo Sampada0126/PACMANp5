@@ -8,7 +8,7 @@ function setup() {
     frameRate(8);
     
     //create link function
-   link = createA("https://sampada0126/PACMAN/", 
+   link = createA("https://sampada0126.github.io/PACMAN/", 
                        "click", "_blank");
 
    // Posotion the anchor objects 
